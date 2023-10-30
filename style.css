@@ -1,0 +1,32 @@
+h1 {
+    font-size: 50px;
+    text-decoration: double underline;
+    font-style: oblique;
+    font-weight: bolder;
+    color: rgb(151, 75, 4);
+    text-align: center;
+    text-decoration: double underline;
+}
+
+li {
+    font-size: 80px;
+    font-size: 25px;
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(106, 6, 126);
+}
+
+body {
+    background-color: rgb(186, 243, 154);
+}
+
+
+li:hover {
+    color: rgb(196, 91, 5);
+    text-decoration: underline;
+}
+/* li {
+    width: 300px;
+    border: 6px inset #006e09;
+    padding: 10px;
+} */
